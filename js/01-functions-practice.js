@@ -1,7 +1,7 @@
 //STEP 1
 function halfNumber(number) {
     const result = number / 2;
-    console.log(`Half of ${number} is ${number}`);
+    console.log(`Half of ${number} is ${result}`);
     return result;
 }
 //STEP 2
